@@ -2,4 +2,4 @@
 
 一个电影放映表
 
-[moviex.github.io](moviex.github.io)
+[moviex.github.io](http://suo.im/kzg03)
