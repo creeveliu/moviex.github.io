@@ -1,5 +1,5 @@
-# moviex.github.io
+# Solo 
 
-一个电影放映表
+[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
-[moviex.github.io](http://t.cn/RAe1Y3M)
+### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
