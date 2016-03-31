@@ -12,12 +12,12 @@ layout: default
 | 2016.02.18      | [唐人街探案](http://movie.douban.com/subject/26311973/)      | [dd6i](http://pan.baidu.com/s/1dEhsK2d)|
 | 2016.02.24      | [老炮儿](http://movie.douban.com/subject/24751756)      | [i3w6](http://pan.baidu.com/s/1o7hI2vw)|
 | 2016.03.01      | [叶问3](http://movie.douban.com/subject/11598977/)     | [gtug](http://pan.baidu.com/s/1Tvyeq)|
-| 2016.03.25      | [星球大战7](https://movie.douban.com/subject/20326665/)     | 暂无 |
-| 2016.04.04      | [极盗者](https://movie.douban.com/subject/25809384/)     | 暂无 |
+| 2016.03.25      | [星球大战7](https://movie.douban.com/subject/20326665/)     | [gri8](http://pan.baidu.com/s/1pLsxSdP) |
+| 2016.03.28      | [极盗者](https://movie.douban.com/subject/25809384/)     | [5a2f](http://pan.baidu.com/s/1nu6yP5J) |
+| 2016.04.01      | [澳门风云3](http://movie.douban.com/subject/26334559/)     | **即将发布** |
 | 2016.04.08      | [三打白骨精](http://movie.douban.com/subject/25827963/)     | 暂无 |
 | 2016.04.08      | [美人鱼](http://movie.douban.com/subject/19944106/)     | 暂无 |
 | 2016.04.08      | [卧虎藏龙2](http://movie.douban.com/subject/21327512/)     | 暂无 |
-| 2016.04.08      | [澳门风云3](http://movie.douban.com/subject/26334559/)     | 暂无 |
 | 2016.04.12      | [荒野猎人](http://movie.douban.com/subject/5327268/)     | 暂无 |
 | 2016.05.29      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | 暂无 |
 | 2016.06.12      | [死侍](http://movie.mtime.com/106309/)     | 暂无 |
