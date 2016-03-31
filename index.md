@@ -20,7 +20,9 @@ layout: default
 | 2016.04.08      | [卧虎藏龙2](http://movie.douban.com/subject/21327512/)     | 暂无 |
 | 2016.04.12      | [荒野猎人](http://movie.douban.com/subject/5327268/)     | 暂无 |
 | 2016.05.29      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | 暂无 |
+| 2016.06.01      | [我的特工爷爷](https://movie.douban.com/subject/25945280/)     | 暂无 |
 | 2016.06.12      | [死侍](http://movie.mtime.com/106309/)     | 暂无 |
+| 2016.07.04      | [伦敦陷落](http://movie.mtime.com/211903/)     | 暂无 |
 | 2016.07.25     | [蝙蝠侠大战超人](http://movie.douban.com/subject/24750534/)     | 暂无 |
 | 2016.09.27     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | 暂无 |
 | 2016.11.06      | [魔兽世界](https://movie.douban.com/subject/2131940/)      | 暂无 |
