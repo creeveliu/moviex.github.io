@@ -14,7 +14,7 @@ layout: default
 | 2016.03.01      | [叶问3](http://movie.douban.com/subject/11598977/)     | [gtug](http://pan.baidu.com/s/1Tvyeq)|
 | 2016.03.25      | [星球大战7](https://movie.douban.com/subject/20326665/)     | [gri8](http://pan.baidu.com/s/1pLsxSdP) |
 | 2016.03.28      | [极盗者](https://movie.douban.com/subject/25809384/)     | [5a2f](http://pan.baidu.com/s/1nu6yP5J) |
-| 2016.04.01      | [澳门风云3](http://movie.douban.com/subject/26334559/)     | **即将发布** |
+| 2016.04.01      | [澳门风云3](http://movie.douban.com/subject/26334559/)     | [e8q2](http://pan.baidu.com/s/1mhICmWo) |
 | 2016.04.08      | [三打白骨精](http://movie.douban.com/subject/25827963/)     | 暂无 |
 | 2016.04.08      | [美人鱼](http://movie.douban.com/subject/19944106/)     | 暂无 |
 | 2016.04.08      | [卧虎藏龙2](http://movie.douban.com/subject/21327512/)     | 暂无 |
