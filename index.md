@@ -4,13 +4,6 @@ layout: default
 
 | 发布日期        | 电影           | 下载  |
 | ------------- |:-------------:| -----:|
-| 2015.12.28      | [火星救援](http://movie.douban.com/subject/25864085)      | [sbp9](http://pan.baidu.com/s/1qXyTPyG)|
-| 2016.01.16      | [师父](http://movie.douban.com/subject/25919910/)      | [4p3f](http://pan.baidu.com/s/1i3Ob4Fz)|
-| 2016.01.26      | [007幽灵党](http://movie.mtime.com/194879/)      | [s84q](http://pan.baidu.com/s/1c0UrGUs) |
-| 2016.02.03      | [寻龙诀](http://movie.douban.com/subject/3077412)      | [xa1x](http://pan.baidu.com/s/1eQTFFyE)|
-| 2016.02.05      | [史蒂夫·乔布斯](http://movie.douban.com/subject/25850443/)      | [bki6](http://pan.baidu.com/s/1hrm8vRm ) |
-| 2016.02.18      | [唐人街探案](http://movie.douban.com/subject/26311973/)      | [dd6i](http://pan.baidu.com/s/1dEhsK2d)|
-| 2016.02.24      | [老炮儿](http://movie.douban.com/subject/24751756)      | [i3w6](http://pan.baidu.com/s/1o7hI2vw)|
 | 2016.03.01      | [叶问3](http://movie.douban.com/subject/11598977/)     | [gtug](http://pan.baidu.com/s/1Tvyeq)|
 | 2016.03.25      | [星球大战7](https://movie.douban.com/subject/20326665/)     | [gri8](http://pan.baidu.com/s/1pLsxSdP) |
 | 2016.03.28      | [极盗者](https://movie.douban.com/subject/25809384/)     | [5a2f](http://pan.baidu.com/s/1nu6yP5J) |
@@ -21,6 +14,7 @@ layout: default
 | 2016.04.12      | [荒野猎人](http://movie.douban.com/subject/5327268/)     | 暂无 |
 | 2016.05.29      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | 暂无 |
 | 2016.06.01      | [我的特工爷爷](https://movie.douban.com/subject/25945280/)     | 暂无 |
+| 2016.06.01      | [火锅英雄](https://movie.douban.com/subject/25662327/)     | 暂无 |
 | 2016.06.12      | [死侍](http://movie.mtime.com/106309/)     | 暂无 |
 | 2016.07.04      | [伦敦陷落](http://movie.mtime.com/211903/)     | 暂无 |
 | 2016.07.25     | [蝙蝠侠大战超人](http://movie.douban.com/subject/24750534/)     | 暂无 |
@@ -74,6 +68,13 @@ layout: default
 | 2015.12.18      | [我是证人](http://movie.douban.com/subject/26313973/)      | WEB:[jfzx](http://pan.baidu.com/s/1sk16S4P)|
 | 2015.12.20      | [港囧](http://movie.douban.com/subject/25710912/)      | WEB:[wuqb](http://pan.baidu.com/s/1o7uRAo6)|
 | 2015.12.23      | [解救吾先生](http://movie.douban.com/subject/25798448/)      | [x85o](http://pan.baidu.com/s/1dEpf7iD) |
+| 2015.12.28      | [火星救援](http://movie.douban.com/subject/25864085)      | [sbp9](http://pan.baidu.com/s/1qXyTPyG)|
+| 2016.01.16      | [师父](http://movie.douban.com/subject/25919910/)      | [4p3f](http://pan.baidu.com/s/1i3Ob4Fz)|
+| 2016.01.26      | [007幽灵党](http://movie.mtime.com/194879/)      | [s84q](http://pan.baidu.com/s/1c0UrGUs) |
+| 2016.02.03      | [寻龙诀](http://movie.douban.com/subject/3077412)      | [xa1x](http://pan.baidu.com/s/1eQTFFyE)|
+| 2016.02.05      | [史蒂夫·乔布斯](http://movie.douban.com/subject/25850443/)      | [bki6](http://pan.baidu.com/s/1hrm8vRm ) |
+| 2016.02.18      | [唐人街探案](http://movie.douban.com/subject/26311973/)      | [dd6i](http://pan.baidu.com/s/1dEhsK2d)|
+| 2016.02.24      | [老炮儿](http://movie.douban.com/subject/24751756)      | [i3w6](http://pan.baidu.com/s/1o7hI2vw)|
 
 ---
 
@@ -84,10 +85,6 @@ layout: default
 |2016.03.28	|[火星救援]()	| [zc7a](http://pan.baidu.com/s/1eSIyqtG) |
 
 
----
-
-<script src="https://gist.github.com/creeveliu/01d03dd2473648ab4a4818671b0de7ce.js"></script>
-<script src="https://gist.github.com/creeveliu/866a5de551e70ab9b64e74e7ec727d6a.js"></script>
 
 <a href="https://github.com/moviex/moviex.github.io/blob/master/index.md" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
 
