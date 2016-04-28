@@ -125,6 +125,12 @@ td, th {
   border: 1px solid #ccc;
 }
 
+th {
+    background-color: #F2F2F2;
+}
+
+tr:nth-child(even){background-color: #F2F2F2}
+
 pre, code {
   font-family: inherit;
   background-color: #eee;
