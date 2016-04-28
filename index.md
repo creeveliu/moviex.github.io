@@ -12,7 +12,7 @@ layout: default
 | 2016.04.08      | [卧虎藏龙2](http://movie.douban.com/subject/21327512/)     | [c3ti](http://pan.baidu.com/s/1eR2Aa2Y) |
 | 2016.04.12      | [荒野猎人](http://movie.douban.com/subject/5327268/)     | [493u](http://pan.baidu.com/s/1bpLTm8n)  |
 | 2016.04.20      | [美人鱼](http://movie.douban.com/subject/19944106/)     | [u4kt](http://pan.baidu.com/s/1skPo1pr)|
-| 2016.04.30      | [死侍](http://movie.mtime.com/106309/)     | 暂无 |
+| 2016.04.30      | [死侍](http://movie.mtime.com/106309/)     | [7dft](http://pan.baidu.com/s/1bXkYqq)  |
 | 2016.05.27      | [疯狂动物城](https://movie.douban.com/subject/25662329/)     | 暂无 |
 | 2016.05.29      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | 暂无 |
 | 2016.06.01      | [我的特工爷爷](https://movie.douban.com/subject/25945280/)     | 暂无 |
