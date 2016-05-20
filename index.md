@@ -13,10 +13,10 @@ layout: default
 | 2016.04.12      | [荒野猎人](http://movie.douban.com/subject/5327268/)     | [493u](http://pan.baidu.com/s/1bpLTm8n)  |
 | 2016.04.20      | [美人鱼](http://movie.douban.com/subject/19944106/)     | [u4kt](http://pan.baidu.com/s/1skPo1pr)|
 | 2016.04.30      | [死侍](http://movie.mtime.com/106309/)     | [7dft](http://pan.baidu.com/s/1bXkYqq)  |
-| 2016.05.27      | [疯狂动物城](https://movie.douban.com/subject/25662329/)     | 暂无 |
+| 2016.05.10      | [火锅英雄](https://movie.douban.com/subject/25662327/)     | [fgrr](http://pan.baidu.com/s/1slwzkAT)|
+| 2016.05.20      | [疯狂动物城](https://movie.douban.com/subject/25662329/)     | [3ujc](http://pan.baidu.com/s/1cxA1wa) |
 | 2016.05.29      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | 暂无 |
 | 2016.06.01      | [我的特工爷爷](https://movie.douban.com/subject/25945280/)     | 暂无 |
-| 2016.06.01      | [火锅英雄](https://movie.douban.com/subject/25662327/)     | 暂无 |
 | 2016.06.04      | [伦敦陷落](http://movie.mtime.com/211903/)     | 暂无 |
 | 2016.07.25     | [蝙蝠侠大战超人](http://movie.douban.com/subject/24750534/)     | 暂无 |
 | 2016.09.06     | [美国队长3 英雄内战](https://movie.douban.com/subject/25820460/)     | 暂无 |
