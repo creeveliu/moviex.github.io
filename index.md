@@ -4,20 +4,8 @@ layout: default
 
 | 发布日期        | 电影           | 下载  |
 | ------------- |:-------------:| -----:|
-| 2016.03.01      | [叶问3](http://movie.douban.com/subject/11598977/)     | [gtug](http://pan.baidu.com/s/1Tvyeq)|
-| 2016.03.25      | [星球大战7](https://movie.douban.com/subject/20326665/)     | [gri8](http://pan.baidu.com/s/1pLsxSdP) |
-| 2016.03.28      | [极盗者](https://movie.douban.com/subject/25809384/)     | [5a2f](http://pan.baidu.com/s/1nu6yP5J) |
-| 2016.04.01      | [澳门风云3](http://movie.douban.com/subject/26334559/)     | [e8q2](http://pan.baidu.com/s/1mhICmWo) |
-| 2016.04.08      | [三打白骨精](http://movie.douban.com/subject/25827963/)     | [ky7x](http://pan.baidu.com/s/1qYnCLuW) |
-| 2016.04.08      | [卧虎藏龙2](http://movie.douban.com/subject/21327512/)     | [c3ti](http://pan.baidu.com/s/1eR2Aa2Y) |
-| 2016.04.12      | [荒野猎人](http://movie.douban.com/subject/5327268/)     | [493u](http://pan.baidu.com/s/1bpLTm8n)  |
-| 2016.04.20      | [美人鱼](http://movie.douban.com/subject/19944106/)     | [u4kt](http://pan.baidu.com/s/1skPo1pr)|
-| 2016.04.30      | [死侍](http://movie.mtime.com/106309/)     | [7dft](http://pan.baidu.com/s/1bXkYqq)  |
-| 2016.05.10      | [火锅英雄](https://movie.douban.com/subject/25662327/)     | [fgrr](http://pan.baidu.com/s/1slwzkAT)|
-| 2016.05.20      | [疯狂动物城](https://movie.douban.com/subject/25662329/)     | [3ujc](http://pan.baidu.com/s/1cxA1wa) |
-| 2016.05.29      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | 暂无 |
-| 2016.06.01      | [我的特工爷爷](https://movie.douban.com/subject/25945280/)     | 暂无 |
-| 2016.06.04      | [伦敦陷落](http://movie.mtime.com/211903/)     | 暂无 |
+| 2016.06.04      | [伦敦陷落](http://movie.mtime.com/211903/)     | [74gg](http://pan.baidu.com/s/1qXWehtE)  |
+| 2016.06.16      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | 暂无 |
 | 2016.07.25     | [蝙蝠侠大战超人](http://movie.douban.com/subject/24750534/)     | 暂无 |
 | 2016.09.06     | [美国队长3 英雄内战](https://movie.douban.com/subject/25820460/)     | 暂无 |
 | 2016.09.27     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | 暂无 |
@@ -78,7 +66,17 @@ layout: default
 | 2016.02.05      | [史蒂夫·乔布斯](http://movie.douban.com/subject/25850443/)      | [bki6](http://pan.baidu.com/s/1hrm8vRm ) |
 | 2016.02.18      | [唐人街探案](http://movie.douban.com/subject/26311973/)      | [dd6i](http://pan.baidu.com/s/1dEhsK2d)|
 | 2016.02.24      | [老炮儿](http://movie.douban.com/subject/24751756)      | [i3w6](http://pan.baidu.com/s/1o7hI2vw)|
-
+| 2016.03.01      | [叶问3](http://movie.douban.com/subject/11598977/)     | [gtug](http://pan.baidu.com/s/1Tvyeq)|
+| 2016.03.25      | [星球大战7](https://movie.douban.com/subject/20326665/)     | [gri8](http://pan.baidu.com/s/1pLsxSdP) |
+| 2016.03.28      | [极盗者](https://movie.douban.com/subject/25809384/)     | [5a2f](http://pan.baidu.com/s/1nu6yP5J) |
+| 2016.04.01      | [澳门风云3](http://movie.douban.com/subject/26334559/)     | [e8q2](http://pan.baidu.com/s/1mhICmWo) |
+| 2016.04.08      | [三打白骨精](http://movie.douban.com/subject/25827963/)     | [ky7x](http://pan.baidu.com/s/1qYnCLuW) |
+| 2016.04.08      | [卧虎藏龙2](http://movie.douban.com/subject/21327512/)     | [c3ti](http://pan.baidu.com/s/1eR2Aa2Y) |
+| 2016.04.12      | [荒野猎人](http://movie.douban.com/subject/5327268/)     | [493u](http://pan.baidu.com/s/1bpLTm8n)  |
+| 2016.04.20      | [美人鱼](http://movie.douban.com/subject/19944106/)     | [u4kt](http://pan.baidu.com/s/1skPo1pr)|
+| 2016.04.30      | [死侍](http://movie.mtime.com/106309/)     | [7dft](http://pan.baidu.com/s/1bXkYqq)  |
+| 2016.05.10      | [火锅英雄](https://movie.douban.com/subject/25662327/)     | [fgrr](http://pan.baidu.com/s/1slwzkAT)|
+| 2016.05.20      | [疯狂动物城](https://movie.douban.com/subject/25662329/)     | [3ujc](http://pan.baidu.com/s/1cxA1wa) |
 ---
 
 #### 4K片源
