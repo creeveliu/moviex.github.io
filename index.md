@@ -6,11 +6,11 @@ layout: default
 | ------------- |:-------------:| -----:|
 | 2016.06.04      | [伦敦陷落](http://movie.mtime.com/211903/)     | [74gg](http://pan.baidu.com/s/1qXWehtE)  |
 | 2016.06.16      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | 暂无 |
-| 2016.06.29      | [北京遇上西雅图2](http://movie.mtime.com/211903/)     | 暂无  |
-| 2016.07.25     | [蝙蝠侠大战超人](http://movie.douban.com/subject/24750534/)     | 暂无 |
-| 2016.07.29      | [封神传奇]()      | 暂无 |
+| 2016.06.23      | [北京遇上西雅图2](http://movie.mtime.com/211903/)     | 暂无  |
+| 2016.07.01     | [蝙蝠侠大战超人](http://movie.douban.com/subject/24750534/)     | 暂无 |
 | 2016.09.06     | [美国队长3 英雄内战](https://movie.douban.com/subject/25820460/)     | 暂无 |
 | 2016.09.27     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | 暂无 |
+| 2016.09.29      | [封神传奇]()      | 暂无 |
 | 2016.09.30      | [大话西游3]()      | 暂无 |
 | 2016.10.06      | [忍者神龟 破影而出]()      | 暂无 |
 | 2016.10.06      | [魔兽 起源](https://movie.douban.com/subject/2131940/)      | 暂无 |
@@ -84,13 +84,13 @@ layout: default
 | 2016.04.30      | [死侍](http://movie.mtime.com/106309/)     | [7dft](http://pan.baidu.com/s/1bXkYqq)  |
 | 2016.05.10      | [火锅英雄](https://movie.douban.com/subject/25662327/)     | [fgrr](http://pan.baidu.com/s/1slwzkAT)|
 | 2016.05.20      | [疯狂动物城](https://movie.douban.com/subject/25662329/)     | [3ujc](http://pan.baidu.com/s/1cxA1wa) |
+
 ---
 
-#### 4K片源
+#### 游戏
 
-| 发布日期       | 电影           | 下载  |
-| ------------- |:-------------:| -----:|
-|2016.03.28	|[火星救援]()	| [zc7a](http://pan.baidu.com/s/1eSIyqtG) |
+<script src="https://gist.github.com/creeveliu/866a5de551e70ab9b64e74e7ec727d6a.js"></script>
+
 
 
 
