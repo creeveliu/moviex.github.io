@@ -8,14 +8,14 @@ layout: default
 | 2016.06.16      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | 暂无 |
 | 2016.06.23      | [北京遇上西雅图2](http://movie.mtime.com/211903/)     | [v85d](http://pan.baidu.com/s/1eSe7i8q)  |
 | 2016.07.09     | [蝙蝠侠大战超人](http://movie.douban.com/subject/24750534/)     | [nkei](http://pan.baidu.com/s/1i5uaIt3) |
+| 2016.08.26      | [惊天魔盗团2](https://movie.douban.com/subject/25662337/)      | 暂无 |
 | 2016.09.03     | [美国队长3 英雄内战](https://movie.douban.com/subject/25820460/)     | 暂无 |
-| 2016.09.27     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | 暂无 |
+| 2016.09.24     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | 暂无 |
 | 2016.09.29      | [封神传奇]()      | 暂无 |
 | 2016.09.30      | [大话西游3]()      | 暂无 |
 | 2016.10.06      | [忍者神龟 破影而出]()      | 暂无 |
 | 2016.10.06      | [魔兽 起源](https://movie.douban.com/subject/2131940/)      | 暂无 |
 | 2016.10.22      | [独立日2]()      | 暂无 |
-| 2016.10.24      | [惊天魔盗团2]()      | 暂无 |
 | 2016.11.08      | [寒战2]()      | 暂无 |
 | 2016.11.29      | [谍影重重5]()      | 暂无 |
 | 2016.12.06      | [X特遣队]()      | 暂无 |
