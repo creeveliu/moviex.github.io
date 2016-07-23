@@ -8,7 +8,7 @@ layout: default
 | 2016.06.16      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | [uzix](https://pan.baidu.com/s/1eRKWc9O) |
 | 2016.06.23      | [北京遇上西雅图2](http://movie.mtime.com/211903/)     | [v85d](http://pan.baidu.com/s/1eSe7i8q)  |
 | 2016.07.09     | [蝙蝠侠大战超人](http://movie.douban.com/subject/24750534/)     | [nkei](http://pan.baidu.com/s/1i5uaIt3) |
-| 2016.07.23     | [三人行](https://movie.douban.com/subject/26235349/)     | WEB-DL[wbet](https://pan.baidu.com/s/1boVl3XX) |
+| 2016.07.23     | [三人行](https://movie.douban.com/subject/26235349/)     | WEB-DL: [wbet](https://pan.baidu.com/s/1boVl3XX) |
 | 2016.08.26      | [惊天魔盗团2](https://movie.douban.com/subject/25662337/)      | 暂无 |
 | 2016.09.03     | [美国队长3 英雄内战](https://movie.douban.com/subject/25820460/)     | 暂无 |
 | 2016.09.24     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | 暂无 |
