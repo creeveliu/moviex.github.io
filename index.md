@@ -11,11 +11,12 @@ layout: default
 | 2016.07.23     | [三人行](https://movie.douban.com/subject/26235349/)     | WEB-DL: [wbet](https://pan.baidu.com/s/1boVl3XX) |
 | 2016.08.26      | [惊天魔盗团2](https://movie.douban.com/subject/25662337/)      | 暂无 |
 | 2016.09.03     | [美国队长3 英雄内战](https://movie.douban.com/subject/25820460/)     | 暂无 |
+| 2016.09.03     | [海底总动员2](https://movie.douban.com/subject/11524967/)     | 暂无 |
+| 2016.09.17      | [魔兽](https://movie.douban.com/subject/2131940/)      | 暂无 |
 | 2016.09.24     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | 暂无 |
 | 2016.09.29      | [封神传奇]()      | 暂无 |
 | 2016.09.30      | [大话西游3]()      | 暂无 |
 | 2016.10.06      | [忍者神龟 破影而出]()      | 暂无 |
-| 2016.10.06      | [魔兽 起源](https://movie.douban.com/subject/2131940/)      | 暂无 |
 | 2016.10.22      | [独立日2]()      | 暂无 |
 | 2016.11.08      | [寒战2]()      | 暂无 |
 | 2016.11.29      | [谍影重重5]()      | 暂无 |
