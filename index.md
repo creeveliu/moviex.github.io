@@ -39,17 +39,16 @@ layout: default
 | 2015.06.11      | 冲锋车 | [wfev](http://pan.baidu.com/s/1hq7wMkk)|
 | 2015.06.19      | 灰姑娘 | [j0ds](http://pan.baidu.com/s/1jG4B39s )|
 | 2015.07.04      | 疯狂外星人 | [o1lx](http://pan.baidu.com/s/1dDIZKat)|
-| 2015.07.17      | 横冲直撞好莱坞 | WEB:[qq83](http://pan.baidu.com/s/1i3EOHWL) |
+| 2015.07.17      | 横冲直撞好莱坞 | [qq83](http://pan.baidu.com/s/1i3EOHWL)ʷ |
 | 2015.07.20      | 分歧者2 | [1kf4](http://pan.baidu.com/s/1ntIK70H) |
 | 2015.07.23      | 速度与激情7 |[yh5k](http://pan.baidu.com/s/1eQD9nA6)|
-| 2015.07.31      | 小时代4 | WEB:[aayp](http://pan.baidu.com/s/1qWqUGQo) |
-| 2015.08.06      | 道士下山 | WEB:[jax8](http://pan.baidu.com/s/1BG5QI)  |
-| 2015.08.14      | 栀子花开 | WEB:[磁力](magnet:?xt=urn:btih:3A8C40DB47B9A928A6CC160C68E85709578671BA) |
+| 2015.07.31      | 小时代4 | [aayp](http://pan.baidu.com/s/1qWqUGQo)ʷ |
+| 2015.08.06      | 道士下山 | [jax8](http://pan.baidu.com/s/1BG5QI)ʷ  |
+| 2015.08.14      | 栀子花开 | [磁力](magnet:?xt=urn:btih:3A8C40DB47B9A928A6CC160C68E85709578671BA)ʷ |
 | 2015.08.14      | 杀破狼2 |[vbcf](http://pan.baidu.com/s/1hqCmv9E)|
 | 2015.08.14      | 疯狂的麦克斯  |[磁力](magnet:?xt=urn:btih:ac4c728505e107f1d5401fa57163b6d2a5ae9279&dn=Mad.Max.Fury.Road.2015.1080p.BluRay.x264.DTS-WiKi&xl=14561825500)|
 | 2015.08.20      | [少年班](http://movie.douban.com/subject/26219652/) | [j9un](http://pan.baidu.com/s/1mgIiL0c)ʷ|
 | 2015.08.28      | [我是路人甲](http://movie.douban.com/subject/25746375/) | [y7h4](http://pan.baidu.com/s/1o626HPg)ʷ|
-| 2015.09.02      | [铁拳](http://movie.douban.com/subject/5446197/) | WEB:[gb6k](http://pan.baidu.com/s/1mg3W9iK)|
 | 2015.09.09      | [复仇者联盟2](http://movie.douban.com/subject/10741834/)  |   [kx9h](http://pan.baidu.com/s/1sjmlNWD)|
 | 2015.09.10      | [煎饼侠](http://movie.douban.com/subject/25895276/) | [b4n1](http://pan.baidu.com/s/1eQ11EHs) |
 | 2015.09.16      | [捉妖记](http://movie.douban.com/subject/25723907/) | [rpv1](http://pan.baidu.com/s/1c0FdlG8) |
@@ -65,7 +64,7 @@ layout: default
 | 2015.11.18      | [蚁人](http://movie.douban.com/subject/1866473/)      |[3dgw](http://pan.baidu.com/s/1bnulb5d ) |
 | 2015.11.21      | [大圣归来](http://movie.douban.com/subject/26277313/) | [c3x1](http://pan.baidu.com/s/1o6CfHUi) |
 | 2015.12.15      | [消失的凶手](https://movie.douban.com/subject/25778483/)      | [6ix4](http://pan.baidu.com/s/1kUaEDnT)  |
-| 2015.12.18      | [我是证人](http://movie.douban.com/subject/26313973/)      | WEB:[jfzx](http://pan.baidu.com/s/1sk16S4P)|
+| 2015.12.18      | [我是证人](http://movie.douban.com/subject/26313973/)      | [jfzx](http://pan.baidu.com/s/1sk16S4P)ʷ|
 | 2015.12.20      | [港囧](http://movie.douban.com/subject/25710912/)      | [wuqb](http://pan.baidu.com/s/1o7uRAo6)ʷ|
 | 2015.12.23      | [解救吾先生](http://movie.douban.com/subject/25798448/)      | [x85o](http://pan.baidu.com/s/1dEpf7iD) |
 | 2015.12.28      | [火星救援](http://movie.douban.com/subject/25864085)      | [sbp9](http://pan.baidu.com/s/1qXyTPyG)|
