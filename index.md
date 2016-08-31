@@ -17,11 +17,11 @@ layout: default
 | 2016.09.21     | [绝地逃亡](https://movie.douban.com/subject/24529353/)     | 暂无 |
 | 2016.09.24     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | 暂无 |
 | 2016.09.29      | [封神传奇]()      | 暂无 |
-| 2016.09.30      | [大话西游3]()      | 暂无 |
 | 2016.10.05      | [盗墓笔记](https://movie.douban.com/subject/24827387/)      | 暂无 |
 | 2016.10.06      | [忍者神龟 破影而出]()      | 暂无 |
 | 2016.10.22      | [独立日2]()      | 暂无 |
 | 2016.11.08      | [寒战2]()      | 暂无 |
+| 2016.11.15      | [大话西游3]()      | 暂无 |
 | 2016.11.29      | [谍影重重5]()      | 暂无 |
 | 2016.12.06      | [X特遣队]()      | 暂无 |
 | 2016.12.11      | [使徒行者](https://movie.douban.com/subject/26336253/)      | 暂无 |
@@ -44,7 +44,7 @@ layout: default
 | 2015.07.04      | 疯狂外星人 | [o1lx](http://pan.baidu.com/s/1dDIZKat)|
 | 2015.07.17      | 横冲直撞好莱坞 | [qq83](http://pan.baidu.com/s/1i3EOHWL)ʷ |
 | 2015.07.20      | 分歧者2 | [1kf4](http://pan.baidu.com/s/1ntIK70H) |
-| 2015.07.23      | 速度与激情7 |[yh5k](http://pan.baidu.com/s/1eQD9nA6)|
+| 2015.07.23      | 速度与激情7 |[yh5k](http://pan.baidu.com/s/1eQD9nA6)|
 | 2015.07.31      | 小时代4 | [aayp](http://pan.baidu.com/s/1qWqUGQo)ʷ |
 | 2015.08.06      | 道士下山 | [jax8](http://pan.baidu.com/s/1BG5QI)ʷ  |
 | 2015.08.14      | 栀子花开 | [磁力](magnet:?xt=urn:btih:3A8C40DB47B9A928A6CC160C68E85709578671BA)ʷ |
