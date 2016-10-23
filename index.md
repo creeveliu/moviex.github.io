@@ -7,7 +7,7 @@ layout: default
 | 2016.10.06      | [忍者神龟 破影而出](https://movie.douban.com/subject/25955779/)      | [1xxx](https://pan.baidu.com/s/1qYGl7uG) |
 | 2016.10.08      | [寒战2](https://movie.douban.com/subject/20505982/)      | [k279](https://pan.baidu.com/s/1boCZ48B) |
 | 2016.10.15      | [大话西游3](https://movie.douban.com/subject/26284595/)      | [tis1](https://pan.baidu.com/s/1kUTDNxH) |
-| 2016.10.20      | [星际迷航 超越星辰](https://movie.douban.com/subject/22939161/)      | [8kkf](https://pan.baidu.com/s/1hrJAT3Q)] |
+| 2016.10.20      | [星际迷航 超越星辰](https://movie.douban.com/subject/22939161/)      | [8kkf](https://pan.baidu.com/s/1hrJAT3Q) |
 | 2016.10.22      | [独立日2](https://movie.douban.com/subject/4811813/)      | [a697](https://pan.baidu.com/s/1mik7hhA) |
 | 2016.11.15      | [机械师2 复活](https://movie.douban.com/subject/25825412/)      | 暂无 |
 | 2016.11.29      | [谍影重重5]()      | 暂无 |
