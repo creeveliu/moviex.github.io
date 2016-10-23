@@ -4,24 +4,12 @@ layout: default
 
 | 发布日期        | 电影           | 下载  |
 | ------------- |:-------------:| -----:|
-| 2016.06.04      | [伦敦陷落](http://movie.mtime.com/211903/)     | [74gg](http://pan.baidu.com/s/1qXWehtE)  |
-| 2016.06.16      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | [uzix](https://pan.baidu.com/s/1eRKWc9O) |
-| 2016.06.23      | [北京遇上西雅图2](http://movie.mtime.com/211903/)     | [v85d](http://pan.baidu.com/s/1eSe7i8q)  |
-| 2016.07.09     | [蝙蝠侠大战超人](http://movie.douban.com/subject/24750534/)     | [nkei](http://pan.baidu.com/s/1i5uaIt3) |
-| 2016.07.23     | [三人行](https://movie.douban.com/subject/26235349/)     |[wbet](https://pan.baidu.com/s/1boVl3XX)ʷ |
-| 2016.08.04     | [超脑48小时](https://movie.douban.com/)     |[13v3](http://pan.baidu.com/s/1hsmCiEC) |
-| 2016.08.22      | [惊天魔盗团2](https://movie.douban.com/subject/25662337/)      | [t0ag](http://pan.baidu.com/s/1eSynov4) |
-| 2016.09.03     | [美国队长3 英雄内战](https://movie.douban.com/subject/25820460/)     | [2qf9](https://pan.baidu.com/s/1slStCRF) |
-| 2016.09.03     | [海底总动员2](https://movie.douban.com/subject/11524967/)     | 暂无 |
-| 2016.09.17      | [魔兽](https://movie.douban.com/subject/2131940/)      | [mbrp](https://pan.baidu.com/s/1qYzW4ry) |
-| 2016.09.21     | [绝地逃亡](https://movie.douban.com/subject/24529353/)     | 暂无 |
-| 2016.09.24     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | [s6ev](https://pan.baidu.com/s/1i4REPN3) |
-| 2016.09.29      | [封神传奇]()      | 暂无 |
 | 2016.10.05      | [盗墓笔记](https://movie.douban.com/subject/24827387/)      | 暂无 |
-| 2016.10.06      | [忍者神龟 破影而出]()      | [1xxx](https://pan.baidu.com/s/1qYGl7uG) |
-| 2016.10.22      | [独立日2]()      | 暂无 |
-| 2016.11.08      | [寒战2]()      | 暂无 |
-| 2016.11.15      | [大话西游3]()      | 暂无 |
+| 2016.10.06      | [忍者神龟 破影而出](https://movie.douban.com/subject/25955779/)      | [1xxx](https://pan.baidu.com/s/1qYGl7uG) |
+| 2016.10.08      | [寒战2](https://movie.douban.com/subject/20505982/)      | [k279](https://pan.baidu.com/s/1boCZ48B) |
+| 2016.10.15      | [大话西游3](https://movie.douban.com/subject/26284595/)      | [tis1](https://pan.baidu.com/s/1kUTDNxH) |
+| 2016.10.20      | [星际迷航 超越星辰](https://movie.douban.com/subject/22939161/)      | [8kkf](https://pan.baidu.com/s/1hrJAT3Q)] |
+| 2016.10.22      | [独立日2](https://movie.douban.com/subject/4811813/)      | [a697](https://pan.baidu.com/s/1mik7hhA) |
 | 2016.11.29      | [谍影重重5]()      | 暂无 |
 | 2016.12.06      | [X特遣队]()      | 暂无 |
 | 2016.12.11      | [使徒行者](https://movie.douban.com/subject/26336253/)      | 暂无 |
@@ -88,7 +76,18 @@ layout: default
 | 2016.04.30      | [死侍](http://movie.mtime.com/106309/)     | [7dft](http://pan.baidu.com/s/1bXkYqq)  |
 | 2016.05.10      | [火锅英雄](https://movie.douban.com/subject/25662327/)     | [fgrr](http://pan.baidu.com/s/1slwzkAT)|
 | 2016.05.20      | [疯狂动物城](https://movie.douban.com/subject/25662329/)     | [3ujc](http://pan.baidu.com/s/1cxA1wa) |
-
+| 2016.06.04      | [伦敦陷落](http://movie.mtime.com/211903/)     | [74gg](http://pan.baidu.com/s/1qXWehtE)  |
+| 2016.06.16      | [功夫熊猫3](http://movie.douban.com/subject/11589036/)     | [uzix](https://pan.baidu.com/s/1eRKWc9O) |
+| 2016.06.23      | [北京遇上西雅图2](http://movie.mtime.com/211903/)     | [v85d](http://pan.baidu.com/s/1eSe7i8q)  |
+| 2016.07.09     | [蝙蝠侠大战超人](http://movie.douban.com/subject/24750534/)     | [nkei](http://pan.baidu.com/s/1i5uaIt3) |
+| 2016.07.23     | [三人行](https://movie.douban.com/subject/26235349/)     |[wbet](https://pan.baidu.com/s/1boVl3XX)ʷ |
+| 2016.08.04     | [超脑48小时](https://movie.douban.com/)     |[13v3](http://pan.baidu.com/s/1hsmCiEC) |
+| 2016.08.22      | [惊天魔盗团2](https://movie.douban.com/subject/25662337/)      | [t0ag](http://pan.baidu.com/s/1eSynov4) |
+| 2016.09.03     | [美国队长3 英雄内战](https://movie.douban.com/subject/25820460/)     | [2qf9](https://pan.baidu.com/s/1slStCRF) |
+| 2016.09.17      | [魔兽](https://movie.douban.com/subject/2131940/)      | [mbrp](https://pan.baidu.com/s/1qYzW4ry) |
+| 2016.09.21     | [绝地逃亡](https://movie.douban.com/subject/24529353/)     | [8kkf](https://pan.baidu.com/s/1hrJAT3Q)  |
+| 2016.09.24     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | [s6ev](https://pan.baidu.com/s/1i4REPN3) |
+| 2016.09.29      | [封神传奇](https://movie.douban.com/subject/25850122/)      | [rjhv](https://pan.baidu.com/s/1dFE79Ih)  |
 ---
 
 
