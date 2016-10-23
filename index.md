@@ -10,11 +10,14 @@ layout: default
 | 2016.10.15      | [大话西游3](https://movie.douban.com/subject/26284595/)      | [tis1](https://pan.baidu.com/s/1kUTDNxH) |
 | 2016.10.20      | [星际迷航 超越星辰](https://movie.douban.com/subject/22939161/)      | [8kkf](https://pan.baidu.com/s/1hrJAT3Q)] |
 | 2016.10.22      | [独立日2](https://movie.douban.com/subject/4811813/)      | [a697](https://pan.baidu.com/s/1mik7hhA) |
+| 2016.11.15      | [机械师2 复活](https://movie.douban.com/subject/25825412/)      | 暂无 |
 | 2016.11.29      | [谍影重重5]()      | 暂无 |
+| 2016.11.20      | [湄公河行动](https://movie.douban.com/subject/25815034/)      | 暂无 |
 | 2016.12.06      | [X特遣队]()      | 暂无 |
 | 2016.12.11      | [使徒行者](https://movie.douban.com/subject/26336253/)      | 暂无 |
+| 2016.12.13      | [萨利机长](https://movie.douban.com/subject/26416603/)      | 暂无 |
 | 2016.12.31      | [刺客信条]()      | 暂无 |
-
+| 2017.02.21      | [侠探杰克 永不回头]()      | 暂无 |
 
 ---
 
