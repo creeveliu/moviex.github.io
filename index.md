@@ -4,7 +4,6 @@ layout: default
 
 | 发布日期        | 电影           | 下载  |
 | ------------- |:-------------:| -----:|
-| 2016.10.05      | [盗墓笔记](https://movie.douban.com/subject/24827387/)      | 暂无 |
 | 2016.10.06      | [忍者神龟 破影而出](https://movie.douban.com/subject/25955779/)      | [1xxx](https://pan.baidu.com/s/1qYGl7uG) |
 | 2016.10.08      | [寒战2](https://movie.douban.com/subject/20505982/)      | [k279](https://pan.baidu.com/s/1boCZ48B) |
 | 2016.10.15      | [大话西游3](https://movie.douban.com/subject/26284595/)      | [tis1](https://pan.baidu.com/s/1kUTDNxH) |
