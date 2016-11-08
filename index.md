@@ -90,7 +90,7 @@ layout: default
 | 2016.09.17      | [魔兽](https://movie.douban.com/subject/2131940/)      | [mbrp](https://pan.baidu.com/s/1qYzW4ry) |
 | 2016.09.21     | [绝地逃亡](https://movie.douban.com/subject/24529353/)     | [8kkf](https://pan.baidu.com/s/1hrJAT3Q)  |
 | 2016.09.24     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | [s6ev](https://pan.baidu.com/s/1i4REPN3) |
-| 2016.09.29      | [封神传奇](https://movie.douban.com/subject/25850122/)      | [rjhv](https://pan.baidu.com/s/1dFE79Ih)  |
+| 2016.09.29      | [封神传奇](https://movie.douban.com/subject/25850122/)      | [rjhv](https://pan.baidu.com/s/1dFE79Ih)ʷ |
 
 ---
 
