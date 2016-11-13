@@ -11,13 +11,15 @@ layout: default
 | 2016.10.22      | [独立日2](https://movie.douban.com/subject/4811813/)      | [a697](https://pan.baidu.com/s/1mik7hhA) |
 | 2016.11.08      | [使徒行者](https://movie.douban.com/subject/26336253/)      | [867g](https://pan.baidu.com/s/1dEJHSxr) |
 | 2016.11.15      | [机械师2 复活](https://movie.douban.com/subject/25825412/)      | 暂无 |
-| 2016.11.29      | [谍影重重5]()      | 暂无 |
+| 2016.11.29      | [谍影重重5](https://movie.douban.com/subject/26266072/)      | 暂无 |
 | 2016.11.20      | [湄公河行动](https://movie.douban.com/subject/25815034/)      | 暂无 |
-| 2016.12.06      | [X特遣队]()      | 暂无 |
+| 2016.12.06      | [X特遣队](https://movie.douban.com/subject/3569910/)      | 暂无 |
 | 2016.12.13      | [萨利机长](https://movie.douban.com/subject/26416603/)      | 暂无 |
-| 2016.12.31      | [刺客信条]()      | 暂无 |
-| 2017.02.20      | [奇异博士]()      | 暂无 |
-| 2017.02.21      | [侠探杰克 永不回头]()      | 暂无 |
+| 2017.03.04      | [奇异博士](https://movie.douban.com/subject/3025375)      | 暂无 |
+| 2017.03.11      | [比利林恩的中场战事](https://movie.douban.com/subject/25983044)      | 暂无 |
+| 2017.04.21      | [刺客信条]()      | 暂无 |
+| 2017.03.21      | [侠探杰克 永不回头]()      | 暂无 |
+
 
 ---
 
