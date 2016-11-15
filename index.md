@@ -15,6 +15,7 @@ layout: default
 | 2016.11.20      | [湄公河行动](https://movie.douban.com/subject/25815034/)      | 暂无 |
 | 2016.12.06      | [X特遣队](https://movie.douban.com/subject/3569910/)      | 暂无 |
 | 2016.12.13      | [萨利机长](https://movie.douban.com/subject/26416603/)      | 暂无 |
+| 2016.12.20      | [斯诺登](https://movie.douban.com/subject/25900819/)      | 暂无 |
 | 2017.03.04      | [奇异博士](https://movie.douban.com/subject/3025375)      | 暂无 |
 | 2017.03.11      | [比利林恩的中场战事](https://movie.douban.com/subject/25983044)      | 暂无 |
 | 2017.04.21      | [刺客信条]()      | 暂无 |
