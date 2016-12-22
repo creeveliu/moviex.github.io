@@ -4,15 +4,7 @@ layout: default
 
 | 发布日期        | 电影           | 下载  |
 | ------------- |:-------------:| -----:|
-| 2016.10.06      | [忍者神龟 破影而出](https://movie.douban.com/subject/25955779/)      | [1xxx](https://pan.baidu.com/s/1qYGl7uG) |
-| 2016.10.08      | [寒战2](https://movie.douban.com/subject/20505982/)      | [k279](https://pan.baidu.com/s/1boCZ48B) |
-| 2016.10.15      | [大话西游3](https://movie.douban.com/subject/26284595/)      | [tis1](https://pan.baidu.com/s/1kUTDNxH)ʷ|
-| 2016.10.20      | [星际迷航 超越星辰](https://movie.douban.com/subject/22939161/)      | [8kkf](https://pan.baidu.com/s/1hrJAT3Q) |
-| 2016.10.22      | [独立日2](https://movie.douban.com/subject/4811813/)      | [a697](https://pan.baidu.com/s/1mik7hhA) |
-| 2016.11.08      | [使徒行者](https://movie.douban.com/subject/26336253/)      | [867g](https://pan.baidu.com/s/1dEJHSxr) |
-| 2016.11.15      | [机械师2 复活](https://movie.douban.com/subject/25825412/)      | [ghtc](https://pan.baidu.com/s/1i5a4V21)|
-| 2016.11.29      | [谍影重重5](https://movie.douban.com/subject/26266072/)      | [种子](https://pan.baidu.com/s/1qYPHO9e) |
-| 2016.12.06      | [X特遣队](https://movie.douban.com/subject/3569910/)      | 暂无 |
+| 2016.12.06      | [X特遣队](https://movie.douban.com/subject/3569910/)      | [种子](https://pan.baidu.com/s/1eS5KoPs) |
 | 2016.12.13      | [萨利机长](https://movie.douban.com/subject/26416603/)      | [种子](https://pan.baidu.com/s/1o8ErPF0) |
 | 2016.12.17      | [湄公河行动](https://movie.douban.com/subject/25815034/)      | [种子](https://pan.baidu.com/s/1cxLGNs) |
 | 2016.12.20      | [斯诺登](https://movie.douban.com/subject/25900819/)      | 暂无 |
@@ -20,7 +12,6 @@ layout: default
 | 2017.03.11      | [比利林恩的中场战事](https://movie.douban.com/subject/25983044)      | 暂无 |
 | 2017.04.21      | [刺客信条]()      | 暂无 |
 | 2017.03.21      | [侠探杰克 永不回头]()      | 暂无 |
-
 
 ---
 
@@ -94,6 +85,14 @@ layout: default
 | 2016.09.21     | [绝地逃亡](https://movie.douban.com/subject/24529353/)     | [8kkf](https://pan.baidu.com/s/1hrJAT3Q)  |
 | 2016.09.24     | [X战警 天启](https://movie.douban.com/subject/25786060/)     | [s6ev](https://pan.baidu.com/s/1i4REPN3) |
 | 2016.09.29      | [封神传奇](https://movie.douban.com/subject/25850122/)      | [rjhv](https://pan.baidu.com/s/1dFE79Ih)ʷ |
+| 2016.10.06      | [忍者神龟 破影而出](https://movie.douban.com/subject/25955779/)      | [1xxx](https://pan.baidu.com/s/1qYGl7uG) |
+| 2016.10.08      | [寒战2](https://movie.douban.com/subject/20505982/)      | [k279](https://pan.baidu.com/s/1boCZ48B) |
+| 2016.10.15      | [大话西游3](https://movie.douban.com/subject/26284595/)      | [tis1](https://pan.baidu.com/s/1kUTDNxH)ʷ|
+| 2016.10.20      | [星际迷航 超越星辰](https://movie.douban.com/subject/22939161/)      | [8kkf](https://pan.baidu.com/s/1hrJAT3Q) |
+| 2016.10.22      | [独立日2](https://movie.douban.com/subject/4811813/)      | [a697](https://pan.baidu.com/s/1mik7hhA) |
+| 2016.11.08      | [使徒行者](https://movie.douban.com/subject/26336253/)      | [867g](https://pan.baidu.com/s/1dEJHSxr) |
+| 2016.11.15      | [机械师2 复活](https://movie.douban.com/subject/25825412/)      | [ghtc](https://pan.baidu.com/s/1i5a4V21)|
+| 2016.11.29      | [谍影重重5](https://movie.douban.com/subject/26266072/)      | [种子](https://pan.baidu.com/s/1qYPHO9e) |
 
 ---
 
