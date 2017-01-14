@@ -7,7 +7,8 @@ layout: default
 | 2016.12.06      | [X特遣队](https://movie.douban.com/subject/3569910/)      | [种子](https://pan.baidu.com/s/1eS5KoPs) |
 | 2016.12.13      | [萨利机长](https://movie.douban.com/subject/26416603/)      | [种子](https://pan.baidu.com/s/1o8ErPF0) |
 | 2016.12.17      | [湄公河行动](https://movie.douban.com/subject/25815034/)      | [种子](https://pan.baidu.com/s/1cxLGNs) |
-| 2016.12.20      | [斯诺登](https://movie.douban.com/subject/25900819/)      | 暂无 |
+| 2016.12.20      | [斯诺登](https://movie.douban.com/subject/25900819/)      | [种子](https://pan.baidu.com/s/1eSMH62e) |
+| 2016.01.14      | [三少爷的剑](https://movie.douban.com/subject/21350556/)      | [种子](https://pan.baidu.com/s/1kVg9VRh) |
 | 2017.03.04      | [奇异博士](https://movie.douban.com/subject/3025375)      | 暂无 |
 | 2017.03.11      | [比利林恩的中场战事](https://movie.douban.com/subject/25983044)      | 暂无 |
 | 2017.04.21      | [刺客信条]()      | 暂无 |
