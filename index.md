@@ -10,8 +10,7 @@ layout: default
 | 2016.12.20      | [斯诺登](https://movie.douban.com/subject/25900819/)      | [种子](https://pan.baidu.com/s/1eSMH62e) |
 | 2016.01.10      | [深海浩劫](https://movie.douban.com/subject/22266320/)      | [种子](https://pan.baidu.com/s/1qYyaFbY) |
 | 2016.01.14      | [三少爷的剑](https://movie.douban.com/subject/21350556/)      | [种子](https://pan.baidu.com/s/1kVg9VRh) |
-| 2017.01.21      | [侠探杰克 永不回头](https://movie.douban.com/subject/25789402/)      | 暂无 |
-| 2016.02.04      | [降临](https://movie.douban.com/subject/21324900/)      | 暂无 |
+| 2016.02.04      | [降临](https://movie.douban.com/subject/21324900/)      | [种子](https://pan.baidu.com/s/1kV2VzkN) |
 | 2017.02.11      | [血战钢锯岭](https://movie.douban.com/subject/26325320/)      | 暂无 |
 | 2017.02.16      | [长城](https://movie.douban.com/subject/6982558/)      | 暂无 |
 | 2017.02.23      | [铁道飞虎](https://movie.douban.com/subject/26389069)      | 暂无 |
