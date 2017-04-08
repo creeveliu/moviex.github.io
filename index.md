@@ -19,7 +19,9 @@ layout: default
 | 2017.03.18      | [刺客信条](https://movie.douban.com/subject/11526817/)      | [种子](https://pan.baidu.com/s/1dFcLPKX) |
 | 2017.03.19      | [星球大战 侠盗一号](https://movie.douban.com/subject/25894431/)      | [种子](https://pan.baidu.com/s/1pKKkBlp) |
 | 2017.03.21      | [太空旅客](https://movie.douban.com/subject/3434070/)      | [种子](https://pan.baidu.com/s/1jIiavVC) |
-| 2017.03.28      | [长城](https://movie.douban.com/subject/6982558/)      | 暂无 |
+| 2017.03.21      | [乘风破浪](https://movie.douban.com/subject/26862259/)      | [磁力](magnet:?xt=urn:btih:A459C055A0E520E911532249BA127CEFDC0980CF
+) |
+| 2017.04.28      | [长城](https://movie.douban.com/subject/6982558/)      | 暂无 |
 | 2017.06.10      | [极限特工3]()     | 暂无 |
 | 2017.07.03      | [金刚狼3]()      | 暂无 |
 | 2017.07.10      | [金刚前传 骷髅岛]()      | 暂无 |
