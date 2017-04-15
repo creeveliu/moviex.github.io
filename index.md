@@ -21,6 +21,7 @@ layout: default
 | 2017.03.21      | [太空旅客](https://movie.douban.com/subject/3434070/)      | [种子](https://pan.baidu.com/s/1jIiavVC) |
 | 2017.04.01      | [乘风破浪](https://movie.douban.com/subject/26862259/)      | [磁力](magnet:?xt=urn:btih:A459C055A0E520E911532249BA127CEFDC0980CF) |
 | 2017.04.02      | [生化危机：终章](https://movie.douban.com/subject/20471852/)      | 暂无 |
+| 2017.04.15      | [西游伏妖篇](https://movie.douban.com/subject/25801066/)      | [磁力](magnet:?xt=urn:btih:65A5533E6DB1F3E6D5B26C499AE7618B22303DCC)  |
 | 2017.04.28      | [长城](https://movie.douban.com/subject/6982558/)      | 暂无 |
 | 2017.06.10      | [极限特工3]()     | 暂无 |
 | 2017.07.03      | [金刚狼3]()      | 暂无 |
