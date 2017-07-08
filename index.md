@@ -4,32 +4,13 @@ layout: default
 
 | 发布日期        | 电影           | 下载  |
 | ------------- |:-------------:| -----:|
-| 2016.12.06      | [X特遣队](https://movie.douban.com/subject/3569910/)      | [种子](https://pan.baidu.com/s/1eS5KoPs) |
-| 2016.12.13      | [萨利机长](https://movie.douban.com/subject/26416603/)      | [种子](https://pan.baidu.com/s/1o8ErPF0) |
-| 2016.12.17      | [湄公河行动](https://movie.douban.com/subject/25815034/)      | [种子](https://pan.baidu.com/s/1cxLGNs) |
-| 2016.12.20      | [斯诺登](https://movie.douban.com/subject/25900819/)      | [种子](https://pan.baidu.com/s/1eSMH62e) |
-| 2017.01.10      | [深海浩劫](https://movie.douban.com/subject/22266320/)      | [种子](https://pan.baidu.com/s/1qYyaFbY) |
-| 2017.01.14      | [三少爷的剑](https://movie.douban.com/subject/21350556/)      | [种子](https://pan.baidu.com/s/1kVg9VRh) |
-| 2017.02.04      | [降临](https://movie.douban.com/subject/21324900/)      | [种子](https://pan.baidu.com/s/1kV2VzkN) |
-| 2017.02.11      | [血战钢锯岭](https://movie.douban.com/subject/26325320/)      | [种子](https://pan.baidu.com/s/1jHD7b74) |
-| 2017.02.13      | [比利林恩的中场战事](https://movie.douban.com/subject/25983044)      |  [种子](https://pan.baidu.com/s/1bXzGsA)  |
-| 2017.02.15      | [奇异博士](https://movie.douban.com/subject/3025375)      |  [种子](https://pan.baidu.com/s/1skN22ip)  |
-| 2017.02.23      | [铁道飞虎](https://movie.douban.com/subject/26389069)      | [种子](https://pan.baidu.com/s/1bpN5VI3) |
-| 2017.03.10      | [神奇动物在哪里](https://movie.douban.com/subject/25726614/)      | [种子](https://pan.baidu.com/s/1dFFv3Df) |
-| 2017.03.18      | [刺客信条](https://movie.douban.com/subject/11526817/)      | [种子](https://pan.baidu.com/s/1dFcLPKX) |
-| 2017.03.19      | [星球大战 侠盗一号](https://movie.douban.com/subject/25894431/)      | [种子](https://pan.baidu.com/s/1pKKkBlp) |
-| 2017.03.21      | [太空旅客](https://movie.douban.com/subject/3434070/)      | [种子](https://pan.baidu.com/s/1jIiavVC) |
-| 2017.04.01      | [乘风破浪](https://movie.douban.com/subject/26862259/)      | [磁力](magnet:?xt=urn:btih:A459C055A0E520E911532249BA127CEFDC0980CF) |
-| 2017.04.02      | [生化危机：终章](https://movie.douban.com/subject/20471852/)      | 暂无 |
-| 2017.04.15      | [西游伏妖篇](https://movie.douban.com/subject/25801066/)      | [磁力](magnet:?xt=urn:btih:65A5533E6DB1F3E6D5B26C499AE7618B22303DCC)  |
-| 2017.04.28      | [长城](https://movie.douban.com/subject/6982558/)      | 暂无 |
-| 2017.06.10      | [极限特工3]()     | 暂无 |
-| 2017.07.03      | [金刚狼3]()      | 暂无 |
-| 2017.07.10      | [金刚 骷髅岛](https://movie.douban.com/subject/26309788/)      | 暂无 |
-| 2017.07.31      | [攻壳机动队](https://movie.douban.com/subject/25818101)      | 暂无 |
-| 2017.08.14      | [速度与激情8]()      | 暂无 |
-| 2017.09.05      | [银河护卫队2]()      | 暂无 |
-| 2017.09.18      | [异形 契约号]()      | 暂无 |
+| 2017.06.10      | [极限特工3](https://movie.douban.com/subject/3230115/)     | [磁力](magnet:?xt=urn:btih:8835dd5b083e3053cc157f151d3b6ebc519e8bdf) |
+| 2017.06.23      | [金刚狼3](https://movie.douban.com/subject/25765735/)      | [磁力](magnet:?xt=urn:btih:88743662879129bf5284f39e90e261991f6e09d6) |
+| 2017.07.01      | [金刚 骷髅岛](https://movie.douban.com/subject/26309788/)      | [磁力](magnet:?xt=urn:btih:64e2e42901992d8e1f3acb3bd8d970826803b5fd) |
+| 2017.07.04      | [速度与激情8](https://movie.douban.com/subject/26260853/)      | [磁力](magnet:?xt=urn:btih:37df85119f9a365c9ff8ee89a7f2164de0e88658) |
+| 2017.07.11      | [攻壳机动队](https://movie.douban.com/subject/25818101)      | 暂无 |
+| 2017.08.01      | [异形 契约号]()      | 暂无 |
+| 2017.08.07      | [银河护卫队2]()      | 暂无 |
 | 2017.09.26      | [加勒比海盗5]()      | 暂无 |
 | 2017.10.02      | [神奇女侠]()      | 暂无 |
 | 2017.10.09      | [木乃伊]()      | 暂无 |
@@ -123,6 +104,25 @@ layout: default
 | 2016.11.08      | [使徒行者](https://movie.douban.com/subject/26336253/)      | [867g](https://pan.baidu.com/s/1dEJHSxr) |
 | 2016.11.15      | [机械师2 复活](https://movie.douban.com/subject/25825412/)      | [ghtc](https://pan.baidu.com/s/1i5a4V21)|
 | 2016.11.29      | [谍影重重5](https://movie.douban.com/subject/26266072/)      | [种子](https://pan.baidu.com/s/1qYPHO9e) |
+| 2016.12.06      | [X特遣队](https://movie.douban.com/subject/3569910/)      | [种子](https://pan.baidu.com/s/1eS5KoPs) |
+| 2016.12.13      | [萨利机长](https://movie.douban.com/subject/26416603/)      | [种子](https://pan.baidu.com/s/1o8ErPF0) |
+| 2016.12.17      | [湄公河行动](https://movie.douban.com/subject/25815034/)      | [种子](https://pan.baidu.com/s/1cxLGNs) |
+| 2016.12.20      | [斯诺登](https://movie.douban.com/subject/25900819/)      | [种子](https://pan.baidu.com/s/1eSMH62e) |
+| 2017.01.10      | [深海浩劫](https://movie.douban.com/subject/22266320/)      | [种子](https://pan.baidu.com/s/1qYyaFbY) |
+| 2017.01.14      | [三少爷的剑](https://movie.douban.com/subject/21350556/)      | [种子](https://pan.baidu.com/s/1kVg9VRh) |
+| 2017.02.04      | [降临](https://movie.douban.com/subject/21324900/)      | [种子](https://pan.baidu.com/s/1kV2VzkN) |
+| 2017.02.11      | [血战钢锯岭](https://movie.douban.com/subject/26325320/)      | [种子](https://pan.baidu.com/s/1jHD7b74) |
+| 2017.02.13      | [比利林恩的中场战事](https://movie.douban.com/subject/25983044)      |  [种子](https://pan.baidu.com/s/1bXzGsA)  |
+| 2017.02.15      | [奇异博士](https://movie.douban.com/subject/3025375)      |  [种子](https://pan.baidu.com/s/1skN22ip)  |
+| 2017.02.23      | [铁道飞虎](https://movie.douban.com/subject/26389069)      | [种子](https://pan.baidu.com/s/1bpN5VI3) |
+| 2017.03.10      | [神奇动物在哪里](https://movie.douban.com/subject/25726614/)      | [种子](https://pan.baidu.com/s/1dFFv3Df) |
+| 2017.03.18      | [刺客信条](https://movie.douban.com/subject/11526817/)      | [种子](https://pan.baidu.com/s/1dFcLPKX) |
+| 2017.03.19      | [星球大战 侠盗一号](https://movie.douban.com/subject/25894431/)      | [种子](https://pan.baidu.com/s/1pKKkBlp) |
+| 2017.03.21      | [太空旅客](https://movie.douban.com/subject/3434070/)      | [种子](https://pan.baidu.com/s/1jIiavVC) |
+| 2017.04.01      | [乘风破浪](https://movie.douban.com/subject/26862259/)      | [磁力](magnet:?xt=urn:btih:A459C055A0E520E911532249BA127CEFDC0980CF) |
+| 2017.04.02      | [生化危机：终章](https://movie.douban.com/subject/20471852/)      | 暂无 |
+| 2017.04.15      | [西游伏妖篇](https://movie.douban.com/subject/25801066/)      | [磁力](magnet:?xt=urn:btih:65A5533E6DB1F3E6D5B26C499AE7618B22303DCC)  |
+| 2017.04.28      | [长城](https://movie.douban.com/subject/6982558/)      | [磁力](magnet:?xt=urn:btih:13fbcb3591afe434343fc313be436dfd9acaf0db) |
 
 ---
 
