@@ -8,7 +8,7 @@ layout: default
 | 2017.06.23      | [金刚狼3](https://movie.douban.com/subject/25765735/)      | [磁力](magnet:?xt=urn:btih:88743662879129bf5284f39e90e261991f6e09d6) |
 | 2017.07.01      | [金刚 骷髅岛](https://movie.douban.com/subject/26309788/)      | [磁力](magnet:?xt=urn:btih:64e2e42901992d8e1f3acb3bd8d970826803b5fd) |
 | 2017.07.04      | [速度与激情8](https://movie.douban.com/subject/26260853/)      | [磁力](magnet:?xt=urn:btih:37df85119f9a365c9ff8ee89a7f2164de0e88658) |
-| 2017.07.11      | [攻壳机动队](https://movie.douban.com/subject/25818101)      | 暂无 |
+| 2017.07.11      | [攻壳机动队](https://movie.douban.com/subject/25818101)      | [磁力](magnet:?xt=urn:btih:cfcd83fc37e2726b5a8a6782880da34cc21c8a43) |
 | 2017.08.01      | [异形 契约号]()      | 暂无 |
 | 2017.08.07      | [银河护卫队2]()      | 暂无 |
 | 2017.09.26      | [加勒比海盗5]()      | 暂无 |
