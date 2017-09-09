@@ -13,8 +13,8 @@ layout: default
 | 2017.08.07      | [银河护卫队2](https://movie.douban.com/subject/25937854/)      | 暂无 |
 | 2017.08.15      | [新木乃伊](https://movie.douban.com/subject/20451290/)      | [磁力](magnet:?xt=urn:btih:C557159656069A8F9F5BA3B099B640EBE899C8F5) |
 | 2017.09.05      | [神奇女侠](https://movie.douban.com/subject/1578714/)      | [磁力](magnet:?xt=urn:btih:851F6ECA7F95D962EA5F2876DDEC4F655BF88087) |
-| 2017.09.12      | [变形金刚5]()      | 暂无 |
-| 2017.09.26      | [加勒比海盗5]()      | 暂无 |
+| 2017.09.12      | [变形金刚5](https://movie.douban.com/subject/25824686/)      | 暂无 |
+| 2017.09.26      | [加勒比海盗5](https://movie.douban.com/subject/6311303/)      | 暂无 |
 | 2017.10.03      | [蜘蛛侠 归来]()      | 暂无 |
 | 2017.10.10      | [猩球崛起3]()      | 暂无 |
 | 2017.10.16      | [汽车总动员3]()      | 暂无 |
