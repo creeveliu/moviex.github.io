@@ -10,7 +10,7 @@ layout: default
 | 2017.07.04      | [速度与激情8](https://movie.douban.com/subject/26260853/)      | [磁力](magnet:?xt=urn:btih:37df85119f9a365c9ff8ee89a7f2164de0e88658) |
 | 2017.07.11      | [攻壳机动队](https://movie.douban.com/subject/25818101)      | [磁力](magnet:?xt=urn:btih:cfcd83fc37e2726b5a8a6782880da34cc21c8a43) |
 | 2017.08.01      | [异形 契约号](https://movie.douban.com/subject/1300868/)      | [磁力](magnet:?xt=urn:btih:8e77c148d34d155d3cba784e4f9d5963535806ed) |
-| 2017.08.07      | [银河护卫队2](https://movie.douban.com/subject/25937854/)      | 暂无 |
+| 2017.08.07      | [银河护卫队2](https://movie.douban.com/subject/25937854/)      | [磁力](magnet:?xt=urn:btih:9bc8543e486e5d992d745c0221de3d78a89d590c) |
 | 2017.08.15      | [新木乃伊](https://movie.douban.com/subject/20451290/)      | [磁力](magnet:?xt=urn:btih:C557159656069A8F9F5BA3B099B640EBE899C8F5) |
 | 2017.09.05      | [神奇女侠](https://movie.douban.com/subject/1578714/)      | [磁力](magnet:?xt=urn:btih:851F6ECA7F95D962EA5F2876DDEC4F655BF88087) |
 | 2017.09.12      | [变形金刚5](https://movie.douban.com/subject/25824686/)      | 暂无 |
